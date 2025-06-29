@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1bNURHLuZDJk4gsGl9WzWuTMcbdDNMjdw
 """
 
-!pip install pandas prophet scipy streamlit
+pip install pandas prophet scipy streamlit
 
 import pandas as pd
 from prophet import Prophet
